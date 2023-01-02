@@ -1,14 +1,13 @@
 
 <h1 align="center">
-  <br>5 - Criando atirador
+  <br>6 - Criar inimigos
 </h1>
  
  
 <p align="center"  > 
-  <img style="height: auto; width: 40%"src="images/screen1.png" alt="animated" /></br>
-  <img style="height: auto; width: 40%" src="images/screen2.png" alt="animated" /></br>
-  <img style="height: auto; width: 40%" src="images/screen3.png" alt="animated" /></br>
-  </br>Tipos diferentes de projetil(1 - bala, 2 canhão dulplo e 3 Lazer)
+  <img style="height: auto; width: 200%"src="images/screen.png" alt="animated" /></br>
+
+  </br>Criando Inimigo com caracteristas diferentes(velocidade,tamanho, forma...)
 </p>
    
  
@@ -36,10 +35,8 @@
 
 ---
 
-## Jogador com multiplas armas
-Para tornar o nivel do jogo mais competitivo, criamos um jogador que podem criar de forma "simples" seu armamento, conforme os niveis vão se tornando mais dificil.
-
-
+## Criando inimigos com herança
+A partir de uma classe base de inimigo, criamos outros tipos de inimigos para deixar o jogo mais interessante.
 
 
 

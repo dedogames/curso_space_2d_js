@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <br>3 - Aprendendo a desenhar na tela
+  <br>4 - Adicionando o loop do jogo
 </h1>
  
  
@@ -24,7 +24,7 @@
 
 1.  [<span style="color:CornflowerBlue "> Adicionando o loop do jogo</span>](https://www.google.com)
     *  Aprendendo sobre fps 
-1.  [<span style="color:CornflowerBlue "> Adicionar habilidade de atirar ao jogador</span>](https://www.google.com)
+1.  [<span style="color:CornflowerBlue ">Criando Atira</span>](https://www.google.com)
 1.  [<span style="color:CornflowerBlue "> Criar inimigos com vida( em %)</span>](https://www.google.com)
 1.  [<span style="color:CornflowerBlue "> Adicionar vida ao jogador(em %)</span>](https://www.google.com)
 1.  [<span style="color:CornflowerBlue "> Implementar GUI(textos,botoes,....)</span>](https://www.google.com)
