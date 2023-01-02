@@ -9,6 +9,7 @@ class Player {
     this.speedY = 0;
     this.maxSpeed = 5;
     this.projectiles = [];  
+    this.color = "grey";
 
 
       
@@ -32,14 +33,13 @@ class Player {
   }
 
   draw(context) {
-    context.fillStyle = "grey";
-    context.fillRect(this.x, this.y, this.width, this.height);
+    Draw.drawRectFill(context, this.x, this.y, this.width, this.height,this.color); 
     this.projectiles.forEach((projectile) => {
       projectile.draw(context);
     });
   }
 
- 
+
   shootTop(tp) {
     
     var x =this.x+50;
