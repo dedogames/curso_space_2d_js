@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <br>Estrutura do projeto
+  <br>2 - Estrutura do projeto
 </h1>
  
  
@@ -15,7 +15,8 @@
     * Qual a finalidade do curso?
     * O que é preciso para fazer o curso?
 1.  [<span style="color:CornflowerBlue;font-weight: bold;  font-size: 1.2em;  ">Estrutura do projeto</span> ⬅️](README.md)
-    *   Template básico com html, css, e JavaScript 
+    *  Criando um template básico em html, css e JavaScript
+    *  Como rodar o programa
 1.  [<span style="color:CornflowerBlue ">Aprendendo a desenhar na tela</span>](https://www.google.com)
     *  Serão criado uma lib simples para desenhar formas geométricas(linha,circulo, retangulo..) 
 1.  [<span style="color:CornflowerBlue "> Criando uma classe de Log(console.log)</span>](https://www.google.com)

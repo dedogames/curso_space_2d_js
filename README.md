@@ -16,8 +16,9 @@ Seleciona o tópico:
 1.  [<span style="color:CornflowerBlue; ">Visão geral do curso</span> ](part1/README.md)
     * Qual a finalidade do curso?
     * O que é preciso para fazer o curso?
-1.  [<span style="color:CornflowerBlue ">Estrutura do projeto</span>](part2/README.md)
-    *   Template básico com html, css, e JavaScript 
+1.  [<span style="color:CornflowerBlue ">Estrutura do projeto</span>](part/README.md)
+    *  Criando um template básico em html, css e JavaScript
+    *  Como rodar o programa
 1.  [<span style="color:CornflowerBlue ">Aprendendo a desenhar na tela</span>](https://www.google.com)
     *  Serão criado uma lib simples para desenhar formas geométricas(linha,circulo, retangulo..) 
 1.  [<span style="color:CornflowerBlue "> Criando uma classe de Log(console.log)</span>](https://www.google.com)
