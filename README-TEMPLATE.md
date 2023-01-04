@@ -1,7 +1,7 @@
 após finalizar, replicar para as partes do curso, lembrando de adicionar fonte siz,e  o icon-hand
 ##  Conteúdo 📄
  
-1.  [<span style="color:CornflowerBlue;">Visão geral do curso</span> ](../part1/README.md)
+1.  [<span style="color:CornflowerBlue;">Visão geral do curso</span> ](../part1)
     * Qual a finalidade do curso?
     * O que é preciso para fazer o curso?
 1.  [<span style="color:CornflowerBlue;">Estrutura do projeto</span>](README.md)
