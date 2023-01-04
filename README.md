@@ -13,25 +13,29 @@
 
 Seleciona o tópico:
 
-1.  [<span style="color:CornflowerBlue; ">Visão geral do curso</span> ](part1/README.md)
+1.  [<span style="color:CornflowerBlue;">Visão geral do curso</span> ](README.md)
     * Qual a finalidade do curso?
-    * O que é preciso para fazer o curso?
-1.  [<span style="color:CornflowerBlue ">Estrutura do projeto</span>](part/README.md)
-    *  Criando um template básico em html, css e JavaScript
-    *  Como rodar o programa
-1.  [<span style="color:CornflowerBlue ">Aprendendo a desenhar na tela</span>](https://www.google.com)
-    *  Serão criado uma lib simples para desenhar formas geométricas(linha,circulo, retangulo..) 
-1.  [<span style="color:CornflowerBlue "> Criando uma classe de Log(console.log)</span>](https://www.google.com)
-1.  [<span style="color:CornflowerBlue "> Implementando um Jogador com movimentos </span>](https://www.google.com)
-1.  [<span style="color:CornflowerBlue "> Adicionando o loop do jogo</span>](https://www.google.com)
-    *  Aprendendo sobre fps 
-1.  [<span style="color:CornflowerBlue "> Adicionar habilidade de atirar ao jogador</span>](https://www.google.com)
-1.  [<span style="color:CornflowerBlue "> Criar inimigos com vida( em %)</span>](https://www.google.com)
-1.  [<span style="color:CornflowerBlue "> Adicionar vida ao jogador(em %)</span>](https://www.google.com)
-1.  [<span style="color:CornflowerBlue "> Implementar GUI(textos,botoes,....)</span>](https://www.google.com)
-1.  [<span style="color:CornflowerBlue "> Criando uma maquina de estado básica</span>](https://www.google.com)
+    * Requisitos tecnologicos para rodar/desenvolver o jogo
+    * Requisitos técnicos recomendável, mas não obrigatórios
+2.  [<span style="color:CornflowerBlue;">Estrutura do projeto</span>](README.md)
+    *   Template básico com html, css, e JavaScript 
+3.  [<span style="color:CornflowerBlue;   ">Aprendendo a desenhar na tela</span>  ](README.md)
+    *  Qual a importancia de desenhar figuras na tela?
+    *  <b>Extra</b>: Criado uma simples classe de log para abstrair o <i>console.log</i>
+4.  [<span style="color:CornflowerBlue "> Adicionando o loop do jogo</span>](README.md)
+    *  Movimentnado objetos 
+5.  [<span style="color:CornflowerBlue "> Criando atirador</span>](README.md)
+    * Jogador com multiplas armas
+6.  [<span style="color:CornflowerBlue "> Criar inimigos com vida( em %)</span>](README.md)
+    * Criando inimigos com herança
+    * Adicionando tiros aos inimigos
+7.  [<span style="color:CornflowerBlue "> Adicionar vida ao jogador(em %)</span>](README.md)
+    * Adicionando colisão entre objetos
+    * Setando vidas para jogador/Inimigo
+8.  [<span style="color:CornflowerBlue "> Implementar GUI(textos,botoes,....)</span>](README.md)
+9.  [<span style="color:CornflowerBlue "> Criando uma maquina de estado básica</span>](README.md)
     * Controlar os estados, Inicio, Jogar,Jogando,Pausa e GameOver 
-1.  [<span style="color:CornflowerBlue;font-weight: ">Sobre o Autor</span> ](/ABOUT.md)
+10.  [<span style="color:CornflowerBlue;font-weight: ">Sobre o Autor</span> ](ABOUT.md)
 
 
 ---

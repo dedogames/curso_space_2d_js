@@ -33,6 +33,7 @@ class Game{
     update(deltaTime){ 
  
         this.player.update(deltaTime);
+        
         this.enemies.forEach(enemy => {
             enemy.update(deltaTime);
             if( !this.player.startBlink){

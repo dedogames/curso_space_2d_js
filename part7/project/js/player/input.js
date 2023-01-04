@@ -4,7 +4,9 @@ class InputHandler{
  
         window.addEventListener('keydown',key_event => {
             if( ((key_event.key === 'ArrowUp') ||
-             (key_event.key === 'ArrowDown') 
+             (key_event.key === 'ArrowDown') ||
+             (key_event.key === 'ArrowLeft') ||
+             (key_event.key === 'ArrowRight') 
              ) 
             && this.game.keys.indexOf(key_event.key) === -1){
                 this.game.keys.push(key_event.key);

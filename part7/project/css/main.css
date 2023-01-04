@@ -4,8 +4,20 @@ body{
 #main_canvas{
     border: 1px solid white;
     position: absolute;
+
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
     background: cornflowerblue;
+}
+
+#img{
+    border: 1px solid white;
+    position: absolute;
+ 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: cornflowerblue;
+    opacity: 0.5;
 }
