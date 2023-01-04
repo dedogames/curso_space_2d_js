@@ -1,7 +1,7 @@
 após finalizar, replicar para as partes do curso, lembrando de adicionar fonte siz,e  o icon-hand
 ##  Conteúdo 📄
  
-1.  [<span style="color:CornflowerBlue;">Visão geral do curso</span> ](../part1)
+1.  [<span style="color:CornflowerBlue;">Visão geral do curso</span> ](https://github.com/dedogames/curso_space_2d_js/tree/main/part1)
     * Qual a finalidade do curso?
     * O que é preciso para fazer o curso?
 1.  [<span style="color:CornflowerBlue;">Estrutura do projeto</span>](README.md)
@@ -22,7 +22,7 @@ após finalizar, replicar para as partes do curso, lembrando de adicionar fonte 
 1.  [<span style="color:CornflowerBlue "> Implementar GUI(textos,botoes,....)</span>](https://www.google.com)
 1.  [<span style="color:CornflowerBlue "> Criando uma maquina de estado básica</span>](https://www.google.com)
     * Controlar os estados, Inicio, Jogar,Jogando,Pausa e GameOver 
-1.  [<span style="color:CornflowerBlue;font-weight: ">Sobre o Autor</span> ](../ABOUT.md)
+1.  [<span style="color:CornflowerBlue;font-weight: ">Sobre o Autor</span> ](https://github.com/dedogames/curso_space_2d_js/blob/main/ABOUT.md)
 
 ---
 <span style="color:CornflowerBlue;   ">Aprendendo a desenhar na tela</span>  
