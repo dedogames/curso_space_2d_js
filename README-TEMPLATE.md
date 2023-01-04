@@ -11,7 +11,7 @@ após finalizar, replicar para as partes do curso, lembrando de adicionar fonte 
     *  Também será implementado uma classe para escrever texto na tela.
     *  <b>Extra</b>: Criado uma simples classe de log para abstrair o <i>console.log</i>
 1.  [<span style="color:CornflowerBlue "> Adicionando o loop do jogo</span>](https://www.google.com)
-    *  Aprendendo sobre fps 
+    *  Movimentnado objetos 
 1.  [<span style="color:CornflowerBlue "> Implementando um jogaodor</span>](https://www.google.com)
     * Modelando a classe para gerenciar I\O(teclado)
     * Criando o jogador com movimento(Cima/Baixo)
@@ -25,3 +25,5 @@ após finalizar, replicar para as partes do curso, lembrando de adicionar fonte 
 1.  [<span style="color:CornflowerBlue;font-weight: ">Sobre o Autor</span> ](../ABOUT.md)
 
 ---
+<span style="color:CornflowerBlue;   ">Aprendendo a desenhar na tela</span>  
+ 

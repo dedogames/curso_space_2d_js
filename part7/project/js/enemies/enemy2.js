@@ -1,8 +1,8 @@
 class Enemy2 extends Enemy{
     constructor(game){
         super(game);
-        this.width = 30;
-        this.height = 30;
+        this.width = 50;
+        this.height = 50;
         this.color = "yellow";
         this.live = 5;
         this.remainLive = this.live;
