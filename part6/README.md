@@ -30,7 +30,7 @@
 6.  [<span style="color:CornflowerBlue "> Criar inimigos com vida( em %)</span>](https://github.com/dedogames/curso_space_2d_js/tree/main/part6)
     * Criando inimigos com herança
     * Adicionando tiros aos inimigos
-7.  [<span style="color:CornflowerBlue "> Adicionar vida ao jogador(em %)</span>](https://github.com/dedogames/curso_space_2d_js/tree/main/part7)
+7.  [<span style="color:CornflowerBlue "> Melhorando as funcionaliaddes do jogo</span>](https://github.com/dedogames/curso_space_2d_js/tree/main/part7)
     * Adicionando colisão entre objetos
     * Setando vidas para jogador/Inimigo
 8.  [<span style="color:CornflowerBlue "> Implementar GUI(textos,botoes,....)</span>](https://github.com/dedogames/curso_space_2d_js/tree/main/part8)
