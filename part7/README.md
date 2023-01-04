@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <br>6 - Criar inimigos
+  <br>7 -  Melhorando as funcionaliaddes do jogo
 </h1>
  
  
@@ -29,7 +29,7 @@
 6.  [<span style="color:CornflowerBlue "> Criar inimigos com vida( em %)</span>](https://github.com/dedogames/curso_space_2d_js/tree/main/part6)
     * Criando inimigos com herança
     * Adicionando tiros aos inimigos
-7.  [<span style="color:CornflowerBlue "> Adicionar vida ao jogador(em %)</span>](https://github.com/dedogames/curso_space_2d_js/tree/main/part7)
+7.  [<span style="color:CornflowerBlue "> Melhorando as funcionaliaddes do jogo</span>](https://github.com/dedogames/curso_space_2d_js/tree/main/part7)
     * Adicionando colisão entre objetos
     * Setando vidas para jogador/Inimigo
 8.  [<span style="color:CornflowerBlue "> Implementar GUI(textos,botoes,....)</span>](https://github.com/dedogames/curso_space_2d_js/tree/main/part8)
@@ -38,7 +38,7 @@
 10.  [<span style="color:CornflowerBlue;font-weight: ">Sobre o Autor</span> ](https://github.com/dedogames/curso_space_2d_js/blob/main/ABOUT.md)
 
 ---
-## 7.1 Adicionando colisão entre objetos
+## 7.1 Melhorando as funcionaliaddes do jogo
 explicar por imagens (x,y, w,h)
 A partir de uma classe base de inimigo, criamos outros tipos de inimigos para deixar o jogo mais interessante.
 

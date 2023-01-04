@@ -18,7 +18,7 @@ após finalizar, replicar para as partes do curso, lembrando de adicionar fonte 
     * Adicionar habilidade de atirar ao jogador
 1.  [<span style="color:CornflowerBlue "> Criar inimigos </span>](https://www.google.com)
 1.  [<span style="color:CornflowerBlue "> Colisão entre objetos </span>](https://www.google.com)
-1.  [<span style="color:CornflowerBlue "> Adicionar vida ao jogador(em %)</span>](https://www.google.com)
+1.  [<span style="color:CornflowerBlue "> Melhorando as funcionaliaddes do jogo</span>](https://www.google.com)
 1.  [<span style="color:CornflowerBlue "> Implementar GUI(textos,botoes,....)</span>](https://www.google.com)
 1.  [<span style="color:CornflowerBlue "> Criando uma maquina de estado básica</span>](https://www.google.com)
     * Controlar os estados, Inicio, Jogar,Jogando,Pausa e GameOver 
