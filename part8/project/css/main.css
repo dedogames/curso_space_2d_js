@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+#main_canvas{
+    border: 1px solid white;
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: cornflowerblue;
+}
+
+#img{
+    border: 1px solid white;
+    position: absolute;
+ 
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: cornflowerblue;
+    opacity: 0.5;
+}
+
+#layer1, #layer2, #layer3, #layer4, #layer5{
+    display: none;
+    
+}
